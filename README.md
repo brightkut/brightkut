@@ -6,8 +6,9 @@ I am really love to code and learning about programming.
   <img  top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/ojvGzDGhAtAAAAAd/enjoying-music-music.gif">
 </a>
 
-### :boy: About Me 
-#
+### :boy: About Me
+<hr style="border:0.5px solid gray">
+
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
 - 🤝 I’m available for freelancing.
