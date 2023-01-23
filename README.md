@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi My name is Disorn Thitikornkovit and you can call me Bright. Nice to meet you :smile:
+
+- :office: I’m currently working on Accenture company.
+- :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about programming. 
+
+
 
 <!--
 **brightkut/brightkut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
