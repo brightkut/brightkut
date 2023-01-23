@@ -6,50 +6,48 @@ I am really love to code and learning about programming.
   <img  top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/ojvGzDGhAtAAAAAd/enjoying-music-music.gif">
 </a>
 
-
 ### :boy: About Me
 
 ---
+
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
 - 🤝 I’m available for freelancing.
-- :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about programming.
+- :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about
+  programming.
 - 📫 How to reach me **dsorn2@gmail.com**
-- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">Resume</a>
-
+- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">
+  Resume</a>
 
 ### :open_book: Skills
 
+---
+<div/>
+📋 Languages:
 <br/>
-- 📋 Languages:
 <br/>
 <!-- html -->
-    <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
 <!-- css -->
-    <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
+<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
 <!-- js -->
-<a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
 <!-- bootstrap -->
-<a margin="10" href="https://getbootstrap.com" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a margin="20" href="https://getbootstrap.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
 <!-- saas -->
-<a margin="10" href="https://sass-lang.com" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+<a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+<br/>
 <br/>
 <!-- react -->
-<a margin="10" href="https://reactjs.org" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="20" href="https://reactjs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
 <!-- mat-ui -->
-<a margin="10" href="https://mui.com" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
+<a margin="20" href="https://mui.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
 <!-- nodejs -->
-<a margin="10" href="https://nodejs.org" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a margin="20" href="https://nodejs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <!-- express -->
-<a margin="10" href="https://expressjs.com" target="_blank"><img margin="10px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 <!-- ts -->
-
-<br/>
-- ☁️ Cloud:
-<br/>
-
-<br/>
-- ♾️ DevOps:
+<br/></div>
 
 
 
@@ -70,8 +68,7 @@ I am really love to code and learning about programming.
 
 <br/>
 
+### Credit:
 
-
-### Credit: 
 https://github.com/100rabhcsmc
 
