@@ -9,12 +9,12 @@ Nice to meet you :smile:
 </a>
 
 
-- :office: I’m currently working on [Accenture](https://dev7days.gitbook.io/dev7days/).
+- :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
 - 🤝 I’m available for freelancing.
 - :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about programming.
 - 📫 How to reach me **dsorn2@gmail.com**
-- 📄 Know about my experiences <a href="" target="blank">Resume</a>
+- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">Resume</a>
 
 
 <br/>
@@ -29,7 +29,7 @@ Nice to meet you :smile:
 		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
         <a style="margin-left: 10px;" target="_blank" href="https://www.instagram.com/brighteloy/">
 			<img src="https://img.icons8.com/doodle/40/000000/instagram-new--v2.png"></a>
-		<a style="margin-left: 5px;" target="_blank" href="">
+		<a style="margin-left: 5px;" target="_blank" href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf">
 					<img src="https://img.icons8.com/plasticine/40/000000/resume.png" ></a>
 </div>
 
