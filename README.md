@@ -7,7 +7,7 @@ I am really love to code and learning about programming.
 </a>
 
 ### :boy: About Me
-***
+#
 
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
@@ -19,8 +19,7 @@ I am really love to code and learning about programming.
   Resume</a>
 
 ### :open_book: Skills
-
-***
+#
 <div/>
 📋 Languages:
 <br/>
