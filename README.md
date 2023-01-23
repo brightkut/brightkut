@@ -21,7 +21,7 @@ I am really love to code and learning about programming.
 ### :open_book: Skills 
 #
 <div/>
-📋 Languages:
+📋 Languages and Framework:
 <br/>
 <br/>
 <!-- html -->
@@ -34,6 +34,7 @@ I am really love to code and learning about programming.
 <a margin="60" href="https://getbootstrap.com" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
 <!-- saas -->
 <a margin="60" href="https://sass-lang.com" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+
 <br/>
 <br/>
 <!-- react -->
@@ -45,9 +46,59 @@ I am really love to code and learning about programming.
 <!-- express -->
 <a margin="60" href="https://expressjs.com" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 <!-- ts -->
+<a margin="60" href="https://www.typescriptlang.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/ts.svg" alt="ts"></a>
+
+<br/>
+<br/>
+<!-- java -->
+<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<!-- springboot -->
+<!-- nestjs -->
+<!-- python -->
+<!-- C# -->
+
+<br/>
+<br/>
+<!-- R -->
+<!-- kotlin -->
+<!-- Shell Script -->
+<!-- Linux -->
+
+<br/></div>
+
+<br/>
+
+<div/>
+☁️ Cloud:
+<br/></div>
+<br/>
+<br/>
+<div/>
+♾️ DevOps:
+<br/></div>
+<br/>
+<br/>
+<div/>
+💾 Databases:
+<br/></div>
+
+<br/>
+<br/>
+<div/>
+🎛️ Operating System:
+<br/></div>
+
+<br/>
+<br/>
+<div/>
+💻 IDEs/Editors:
 <br/></div>
 
 
+<br/>
+<br/>
+<br/>
+<br/>
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3>
 <p align="center">
