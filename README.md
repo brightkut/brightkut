@@ -6,8 +6,7 @@ I am really love to code and learning about programming.
   <img  top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/ojvGzDGhAtAAAAAd/enjoying-music-music.gif">
 </a>
 
-### :boy: About Me
-#
+### :boy: About Me ###
 
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
@@ -18,8 +17,7 @@ I am really love to code and learning about programming.
 - 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">
   Resume</a>
 
-### :open_book: Skills
-#
+### :open_book: Skills ###
 <div/>
 📋 Languages:
 <br/>
