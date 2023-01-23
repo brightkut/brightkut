@@ -51,14 +51,15 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- java -->
-<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/java.png" alt="java"></a>
+<a margin="60" href="https://www.java.com/en/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/java.png" alt="java"></a>
 <!-- springboot -->
-<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/spring.png" alt="springboot"></a>
+<a margin="60" href="https://spring.io/projects/spring-boot" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/spring.png" alt="springboot"></a>
 <!-- nestjs -->
-<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
+<a margin="60" href="https://nestjs.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
 <!-- python -->
+<a margin="60" href="https://www.python.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/python.png" alt="python"></a>
 <!-- C# -->
-<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.png" alt="c#"></a>
+<a margin="60" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.png" alt="c#"></a>
 
 <br/>
 <br/>
