@@ -5,8 +5,10 @@ Hi My name is Bright , I am really love to code and learning about programming.
 Nice to meet you :smile:
 
 <a target="_blank" align="center">
-  <img  alt="GIF" src="https://tenor.com/view/yaameen-aesthetic-girl-snow-gif-16667039.gif">
+  <img  top="500" height="300" width="400" alt="GIF" src="https://tenor.com/view/enjoying-music-music-musician-musical-girl-gif-16667066.gif">
 </a>
+
+[comment]: <> (<div class="tenor-gif-embed" data-postid="16667066" data-share-method="host" data-aspect-ratio="0.559375" data-width="100%"><a href="https://tenor.com/view/enjoying-music-music-musician-musical-girl-gif-16667066">Enjoying Music Musician GIF</a>from <a href="https://tenor.com/search/enjoying+music-gifs">Enjoying Music GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>)
 
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
