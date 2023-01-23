@@ -46,7 +46,7 @@ I am really love to code and learning about programming.
 <!-- express -->
 <a margin="60" href="https://expressjs.com" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 <!-- ts -->
-<a margin="60" href="https://www.typescriptlang.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Typescript_logo_2020.svg" alt="ts"></a>
+<a margin="60" href="https://www.typescriptlang.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Typescript_logo_2020-svg.png" alt="ts"></a>
 
 <br/>
 <br/>
