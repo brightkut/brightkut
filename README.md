@@ -1,6 +1,6 @@
 ### :boy: About Me
 
-Hi My name is Disorn Thitikornkovit and you can call me Bright. 
+Hi My name is Bright , I am really love to code and learning about programming. 
 
 Nice to meet you :smile:
 
