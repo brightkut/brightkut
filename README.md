@@ -64,9 +64,13 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- R -->
+<a margin="60" href="https://www.r-project.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/r.png" alt="R"></a>
 <!-- kotlin -->
+<a margin="60" href="https://kotlinlang.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kotlin.png" alt="kotlin"></a>
 <!-- Shell Script -->
+<a margin="60" href="https://www.shellscript.sh/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sh.png" alt="sh"></a>
 <!-- Linux -->
+<a margin="60" href="https://www.linux.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/linux.png" alt="linux"></a>
 
 <br/></div>
 
