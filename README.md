@@ -1,8 +1,11 @@
-### Hi My name is Disorn Thitikornkovit and you can call me Bright. Nice to meet you :smile:
+### :boy: About Me
+
+Hi My name is Disorn Thitikornkovit and you can call me Bright. 
+
+Nice to meet you :smile:
 
 - :office: I’m currently working on Accenture company.
 - :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about programming. 
-
 
 
 <!--
