@@ -51,11 +51,14 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- java -->
-<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/java.jpeg" alt="java"></a>
 <!-- springboot -->
+<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/spring.png" alt="springboot"></a>
 <!-- nestjs -->
+<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/nest.svg" alt="nestjs"></a>
 <!-- python -->
 <!-- C# -->
+<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.svg" alt="c#"></a>
 
 <br/>
 <br/>
