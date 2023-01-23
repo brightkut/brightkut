@@ -1,15 +1,15 @@
-### :boy: About Me
+<h1 align="center">Hi Geeks, I'm Bright <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-Hi My name is Bright , I am really love to code and learning about programming. 
+---
 
-Nice to meet you :smile:
+I am really love to code and learning about programming.
 
 <a target="_blank" align="center">
   <img  top="500" height="300" width="400" alt="GIF" src="https://media.tenor.com/ojvGzDGhAtAAAAAd/enjoying-music-music.gif">
 </a>
 
 
-
+### :boy: About Me
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
 - 🤝 I’m available for freelancing.
@@ -18,7 +18,17 @@ Nice to meet you :smile:
 - 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">Resume</a>
 
 
+
+
+ <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+
+ 📋 Languages:
+
+  <a margin="10" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="10px" height="40" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+
+
 <br/>
+
 
 <h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 50px;">Contact  me 🤝 </h3>
 <p align="center">
@@ -36,6 +46,8 @@ Nice to meet you :smile:
 
 
 <br/>
+
+
 
 ### Credit: 
 https://github.com/100rabhcsmc
