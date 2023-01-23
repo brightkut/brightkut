@@ -8,7 +8,7 @@ I am really love to code and learning about programming.
 
 ### :boy: About Me
 
----
+___
 
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
@@ -21,31 +21,31 @@ I am really love to code and learning about programming.
 
 ### :open_book: Skills
 
----
+___
 <div/>
 📋 Languages:
 <br/>
 <br/>
 <!-- html -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="60" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
 <!-- css -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
+<a margin="60" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
 <!-- js -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="60" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
 <!-- bootstrap -->
-<a margin="20" href="https://getbootstrap.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a margin="60" href="https://getbootstrap.com" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
 <!-- saas -->
-<a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+<a margin="60" href="https://sass-lang.com" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
 <br/>
 <br/>
 <!-- react -->
-<a margin="20" href="https://reactjs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="60" href="https://reactjs.org" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
 <!-- mat-ui -->
-<a margin="20" href="https://mui.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
+<a margin="60" href="https://mui.com" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
 <!-- nodejs -->
-<a margin="20" href="https://nodejs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a margin="60" href="https://nodejs.org" target="_blank"><img margin="60px" height="60" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
 <!-- express -->
-<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+<a margin="60" href="https://expressjs.com" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
 <!-- ts -->
 <br/></div>
 
