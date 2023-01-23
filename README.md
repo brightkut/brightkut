@@ -5,7 +5,7 @@ Hi My name is Disorn Thitikornkovit and you can call me Bright.
 Nice to meet you :smile:
 
 <a target="_blank" align="center">
-  <img  top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+  <img  top="500" height="300" width="400" alt="GIF" src="https://giphy.com/clips/ThisIsMashed-animation-animated-mashed-eZEo4JuB3o63wDIyGW">
 </a>
 
 
