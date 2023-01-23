@@ -5,7 +5,7 @@ Hi My name is Bright , I am really love to code and learning about programming.
 Nice to meet you :smile:
 
 <a target="_blank" align="center">
-  <img  height="300" width="400" alt="GIF" src="https://tenor.com/view/yaameen-aesthetic-girl-snow-gif-16667039.gif">
+  <img  alt="GIF" src="https://tenor.com/view/yaameen-aesthetic-girl-snow-gif-16667039.gif">
 </a>
 
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
