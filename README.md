@@ -5,9 +5,8 @@ Hi My name is Disorn Thitikornkovit and you can call me Bright.
 Nice to meet you :smile:
 
 <a target="_blank" align="center">
-  <img  top="500" height="300" width="400" alt="GIF" src="https://giphy.com/clips/ThisIsMashed-animation-animated-mashed-eZEo4JuB3o63wDIyGW">
+  <img  top="500" height="300" width="400" alt="GIF" src="https://tenor.com/view/yaameen-aesthetic-girl-snow-gif-16667039.gif">
 </a>
-
 
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
