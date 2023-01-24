@@ -23,7 +23,6 @@ I am really love to code and learning about programming.
 <div/>
 📋 Languages and Framework:
 <br/>
-<br/>
 <!-- html -->
 <a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
 <!-- css -->
@@ -69,11 +68,9 @@ I am really love to code and learning about programming.
 <!-- Linux -->
 <a margin="20" href="https://www.linux.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/linux.png" alt="linux"></a></div>
 <br/>
-<br/>
 
 <div/>
 ☁️ Cloud:
-<br/>
 <br/>
 <!-- AWS -->
 <a margin="20" href="https://aws.amazon.com/th/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/aws.png" alt="aws"></a>
@@ -111,12 +108,7 @@ I am really love to code and learning about programming.
 
 <br/>
 <br/>
-<div/>
-🎛️ Operating System:
-<br/></div>
 
-<br/>
-<br/>
 <div/>
 💻 IDEs/Editors:
 <br/></div>
