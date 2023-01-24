@@ -79,34 +79,33 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- AWS -->
-<a margin="20" href="https://aws.amazon.com/th/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/aws.png" alt="aws"></a></div>
+<a margin="20" href="https://aws.amazon.com/th/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/aws.png" alt="aws"></a>
 <!-- Heroku -->
 <a margin="20" href="https://www.heroku.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/heroku.jpeg" alt="heroku"></a></div>
 <br/>
 <br/>
-<div/>
 ♾️ Tools/DevOps:<br/>
 <br/>
 <!-- Docker -->
-<a margin="20" href="https://www.docker.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/docker.png" alt="docker"></a></div></div>
+<a margin="20" href="https://www.docker.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/docker.png" alt="docker"></a>
 <!-- Terraform -->
-<a margin="20" href="https://www.terraform.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/terra.png" alt="terraform"></a></div></div>
+<a margin="20" href="https://www.terraform.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/terra.png" alt="terraform"></a>
 <!-- K8s -->
-<a margin="20" href="https://kubernetes.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/k8s.png" alt="k8s"></a></div></div>
+<a margin="20" href="https://kubernetes.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/k8s.png" alt="k8s"></a>
 <!-- Openshift -->
-<a margin="20" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a></div></div>
+<a margin="20" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a>
 <br/>
 <br/>
 <!-- Jenkins -->
-<a margin="20" href="https://www.jenkins.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/jenkins.png" alt="jenkins"></a></div></div>
+<a margin="20" href="https://www.jenkins.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/jenkins.png" alt="jenkins"></a>
 <!-- Github -->
-<a margin="20" href="https://github.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/github.png" alt="github"></a></div></div>
+<a margin="20" href="https://github.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/github.png" alt="github"></a>
 <!-- Gitlab -->
-<a margin="20" href="https://about.gitlab.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/gitlab.png" alt="gitlab"></a></div></div>
+<a margin="20" href="https://about.gitlab.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/gitlab.png" alt="gitlab"></a>
 <!-- Kafka -->
-<a margin="20" href="https://kafka.apache.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kafka.jpeg" alt="kafka"></a></div></div>
+<a margin="20" href="https://kafka.apache.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kafka.jpeg" alt="kafka"></a>
 <!-- Kibana -->
-<a margin="20" href="https://www.elastic.co/what-is/kibana" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kibana.png" alt="kibana"></a></div></div>
+<a margin="20" href="https://www.elastic.co/what-is/kibana" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/kibana.png" alt="kibana"></a></div>
 <br/>
 <br/>
 
