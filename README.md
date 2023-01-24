@@ -73,7 +73,6 @@ I am really love to code and learning about programming.
 <a margin="60" href="https://www.linux.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/linux.png" alt="linux"></a></div>
 <br/>
 <br/>
-
 <div/>
 ☁️ Cloud:
 <br/>
@@ -81,14 +80,12 @@ I am really love to code and learning about programming.
 <!-- AWS -->
 <a margin="60" href="https://aws.amazon.com/th/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/aws.png" alt="aws"></a></div>
 <!-- Heroku -->
-<a margin="60" href="https://www.heroku.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/herokul.jpeg" alt="heroku"></a></div>
+<a margin="60" href="https://www.heroku.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/heroku.jpeg" alt="heroku"></a></div>
 <br/>
 <br/>
 <div/>
 ♾️ Tools/DevOps:<br/>
 <br/>
-<!-- Jenkins -->
-<a margin="60" href="https://www.jenkins.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/jenkins.png" alt="jenkins"></a></div></div>
 <!-- Docker -->
 <a margin="60" href="https://www.docker.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/docker.png" alt="docker"></a></div></div>
 <!-- Terraform -->
@@ -99,6 +96,8 @@ I am really love to code and learning about programming.
 <a margin="60" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a></div></div>
 <br/>
 <br/>
+<!-- Jenkins -->
+<a margin="60" href="https://www.jenkins.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/jenkins.png" alt="jenkins"></a></div></div>
 <!-- Github -->
 <a margin="60" href="https://github.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/brightkut/brightkut/blob/main/github.png" alt="github"></a></div></div>
 <!-- Gitlab -->
