@@ -133,6 +133,7 @@ I am really love to code and learning about programming.
 <a margin="20" href="https://robotframework.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/robot.png" alt="robot"></a></div>
 
 <div/>
+<br/>
 💻 IDEs/Editors:
 <br/>
 <br/>
@@ -148,7 +149,7 @@ I am really love to code and learning about programming.
 <a margin="20" href="https://visualstudio.microsoft.com/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/vs.png" alt="visuals"></a>
 <br/>
 <!-- Datagrip -->
-<a margin="20" href="https://www.jetbrains.com/datagrip/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/datag.jpeg" alt="datagrip"></a>
+<a margin="20" href="https://www.jetbrains.com/datagrip/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/datag.png" alt="datagrip"></a>
 <!-- Pycharm -->
 <a margin="20" href="https://www.jetbrains.com/pycharm/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/pyc.png" alt="pycharm"></a>
 <!-- Webstorm -->
@@ -179,7 +180,11 @@ I am really love to code and learning about programming.
 
 <br/>
 
-### Credit:
+### Reference:
 
 https://github.com/100rabhcsmc
+
+https://github.com/sarath-pm
+
+https://github.com/abdoachhoubi
 
