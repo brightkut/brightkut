@@ -36,7 +36,6 @@ I am really love to code and learning about programming.
 <a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
 
 <br/>
-<br/>
 <!-- react -->
 <a margin="20" href="https://reactjs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
 <!-- mat-ui -->
@@ -49,7 +48,6 @@ I am really love to code and learning about programming.
 <a margin="20" href="https://www.typescriptlang.org" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Typescript_logo_2020-svg.png" alt="ts"></a>
 
 <br/>
-<br/>
 <!-- java -->
 <a margin="20" href="https://www.java.com/en/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/java.png" alt="java"></a>
 <!-- springboot -->
@@ -61,7 +59,6 @@ I am really love to code and learning about programming.
 <!-- C# -->
 <a margin="20" href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Csharp.png" alt="c#"></a>
 
-<br/>
 <br/>
 <!-- R -->
 <a margin="20" href="https://www.r-project.org/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/r.png" alt="R"></a>
@@ -94,7 +91,6 @@ I am really love to code and learning about programming.
 <a margin="20" href="https://kubernetes.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/k8s.png" alt="k8s"></a>
 <!-- Openshift -->
 <a margin="20" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/opc.png" alt="openshift"></a>
-<br/>
 <br/>
 <!-- Jenkins -->
 <a margin="20" href="https://www.jenkins.io/" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/jenkins.png" alt="jenkins"></a>
