@@ -79,34 +79,34 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- AWS -->
-<a margin="60" href="https://aws.amazon.com/th/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/aws.png" alt="aws"></a></div>
+<a margin="60" href="https://aws.amazon.com/th/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/aws.png" alt="aws"></a></div>
 <!-- Heroku -->
-<a margin="60" href="https://www.heroku.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/herokul.jpeg" alt="heroku"></a></div>
+<a margin="60" href="https://www.heroku.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/herokul.jpeg" alt="heroku"></a></div>
 <br/>
 <br/>
 <div/>
 ♾️ Tools/DevOps:<br/>
 <br/>
 <!-- Jenkins -->
-<a margin="60" href="https://www.jenkins.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/jenkins.png" alt="jenkins"></a></div></div>
+<a margin="60" href="https://www.jenkins.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/jenkins.png" alt="jenkins"></a></div></div>
 <!-- Docker -->
-<a margin="60" href="https://www.docker.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/docker.png" alt="docker"></a></div></div>
+<a margin="60" href="https://www.docker.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/docker.png" alt="docker"></a></div></div>
 <!-- Terraform -->
-<a margin="60" href="https://www.terraform.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/terra.png" alt="terraform"></a></div></div>
+<a margin="60" href="https://www.terraform.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/terra.png" alt="terraform"></a></div></div>
 <!-- K8s -->
-<a margin="60" href="https://kubernetes.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/k8s.png" alt="k8s"></a></div></div>
+<a margin="60" href="https://kubernetes.io/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/k8s.png" alt="k8s"></a></div></div>
 <!-- Openshift -->
-<a margin="60" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/opc.png" alt="openshift"></a></div></div>
+<a margin="60" href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/opc.png" alt="openshift"></a></div></div>
 <br/>
 <br/>
 <!-- Github -->
-<a margin="60" href="https://github.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/github.png" alt="github"></a></div></div>
+<a margin="60" href="https://github.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/github.png" alt="github"></a></div></div>
 <!-- Gitlab -->
-<a margin="60" href="https://about.gitlab.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/gitlab.png" alt="gitlab"></a></div></div>
+<a margin="60" href="https://about.gitlab.com/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/gitlab.png" alt="gitlab"></a></div></div>
 <!-- Kafka -->
-<a margin="60" href="https://kafka.apache.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/kafka.jpeg" alt="kafka"></a></div></div>
+<a margin="60" href="https://kafka.apache.org/" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/kafka.jpeg" alt="kafka"></a></div></div>
 <!-- Kibana -->
-<a margin="60" href="https://www.elastic.co/what-is/kibana" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/kibana.png" alt="kibana"></a></div></div>
+<a margin="60" href="https://www.elastic.co/what-is/kibana" target="_blank"><img margin="60px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/kibana.png" alt="kibana"></a></div></div>
 <br/>
 <br/>
 
