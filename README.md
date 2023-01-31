@@ -12,7 +12,7 @@ I am really love to code and learning about programming.
 - :office: I’m currently working on [Accenture](https://www.accenture.com/th-en/about/company/thailand).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Nodejs)
 - 🤝 I’m available for freelancing.
-- :bubble_tea: [LonEr](https://www.loner-dev.com) This is website about myself. 
+- :frog: [LonEr](https://www.loner-dev.com) This is website about myself. 
 - :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about
   programming.
 - 📫 How to reach me **dsorn2@gmail.com**
