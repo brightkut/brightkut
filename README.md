@@ -16,7 +16,7 @@ I am really love to code and learning about programming.
 - :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about
   programming.
 - 📫 How to reach me **dsorn2@gmail.com**
-- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev8.pdf" target="blank">
+- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev11.pdf" target="blank">
   Resume</a>
 
 ### :open_book: Skills 
