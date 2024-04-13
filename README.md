@@ -15,7 +15,7 @@ I am really love to code and learning about programming.
 - :frog: [LonEr](https://www.loner-dev.com) This is website about myself. 
 - :coffee: [Dev7Days](https://dev7days.gitbook.io/dev7days/) This is my website to summarize what I'm learning about
   programming.
-- :coffee: [AnimePortal](https://anime-portal.online/) This website allows you to watch anime and sends notifications to your Line account when there is a new episode available.
+- :beer: [AnimePortal](https://anime-portal.online/) This website allows you to watch anime and sends notifications to your Line account when there is a new episode available.
 - 📫 How to reach me **dsorn2@gmail.com**
 - 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev11.pdf" target="blank">
   Resume</a>
