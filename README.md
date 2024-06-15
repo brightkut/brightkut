@@ -9,7 +9,7 @@ I am really love to code and learning about programming.
 ### :boy: About Me
 #
 
-- :office: I’m currently working on [IBMDT]([https://www.opn.ooo/th-en/](https://www.ibmdt.co.th/life-ibmdt)).
+- :office: I’m currently working on [IBMDT](https://www.opn.ooo/th-en/](https://www.ibmdt.co.th/life-ibmdt)).
 - 🌱 I’m currently Working on Backend Developer (SpringBoot and Golang)
 - 🤝 I’m available for freelancing.
 - :frog: [LonEr](https://loner-dev.com) This is website about myself. 
