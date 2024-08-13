@@ -27,25 +27,25 @@ I am really love to code and learning about programming.
 <br/>
 <br/>
 <!-- html -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/html.svg" alt="html"></a>
+<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/html.png" alt="html"></a>
 <!-- css -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/css.svg" alt="css"></a>
+<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/css.png" alt="css"></a>
 <!-- js -->
-<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/javascript.svg" alt="javascript"></a>
+<a margin="20" href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/javascript.png" alt="javascript"></a>
 <!-- bootstrap -->
-<a margin="20" href="https://getbootstrap.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/bootstrap.svg" alt="bootstrap"></a>
+<a margin="20" href="https://getbootstrap.com" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/bootstrap.png" alt="bootstrap"></a>
 <!-- saas -->
-<a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/sass.svg" alt="sass"></a>
+<a margin="20" href="https://sass-lang.com" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/sass.png" alt="sass"></a>
 
 <br/>
 <!-- react -->
-<a margin="20" href="https://reactjs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/react.svg" alt="react"></a>
+<a margin="20" href="https://reactjs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/react.png" alt="react"></a>
 <!-- mat-ui -->
-<a margin="20" href="https://mui.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/materialui.svg" alt="material ui"></a>
+<a margin="20" href="https://mui.com" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/material.png" alt="material ui"></a>
 <!-- nodejs -->
-<a margin="20" href="https://nodejs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/nodejs.svg" alt="nodejs"></a>
+<a margin="20" href="https://nodejs.org" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/node.png" alt="nodejs"></a>
 <!-- express -->
-<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="20" src="https://github.com/abdoachhoubi/abdoachhoubi/blob/main/svgs/express.svg" alt="express"></a>
+<a margin="20" href="https://expressjs.com" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/express.png" alt="express"></a>
 <!-- ts -->
 <a margin="20" href="https://www.typescriptlang.org" target="_blank"><img margin="20px" height="20" src="https://github.com/brightkut/brightkut/blob/main/Typescript_logo_2020-svg.png" alt="ts"></a>
 
