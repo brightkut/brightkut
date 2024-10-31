@@ -17,7 +17,7 @@ I am really love to code and learning about programming.
   programming.
 - :beer: [AnimePortal (Closed)](https://anime-portal.online/) This website allows you to watch anime and sends notifications to your Line account when there is a new episode available.
 - 📫 How to reach me **dsorn2@gmail.com**
-- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev11.pdf" target="blank">
+- 📄 Know about my experiences <a href="https://github.com/brightkut/brightkut/blob/main/resumev12.pdf" target="blank">
   Resume</a>
 
 ### :open_book: Skills 
